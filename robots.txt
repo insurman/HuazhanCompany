@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /static
+Disallow: /connect.php
+Disallow: /Delete.php
+Disallow: /index.php
+Disallow: /refash.php
+Disallow: /valuationform.php
+Disallow: /login.php
